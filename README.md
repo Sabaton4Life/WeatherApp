@@ -1,7 +1,7 @@
 This is a simple application that displays the weather in different cities made to improve my skills using React and Spring Boot.
 The app has the following features:
 A login and a register page.
-![Login](https://ibb.co/LSHC3pB)
+![Login](https://i.ibb.co/CB3tngV/Register.png)
 ![Register](https://ibb.co/j6NVbMg)
 A search page with a list of saved cities. Each can be deleted or modified
 ![SearchPage](https://ibb.co/C282Lxc)
